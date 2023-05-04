@@ -75,9 +75,8 @@
           </ul>
         </div>
         <div class="img-slide">
-          <div style="background: rgb(241, 0, 0); width: 1600px; display: block; margin-left: -150px; height:306px" >
           <img src="//icms-image.slatic.net/images/ims-web/0e4f83d4-7f6a-410f-a01c-61fdbb536398.jpg">
-        </div>
+
         </div>
       </div>
       <div class="card-channels">
